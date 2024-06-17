@@ -11,7 +11,7 @@ author: John
 ---
 
 {: .box-success}
-Welcome!I strongly encourage you to [take 5 minutes to learn about us](https://bilibili.com/) - it'll tell you the story of us.<br/>I also encourage you to look at the [film that created this post](https://github.com/OleLukCie/OleLukCie.github.io/edit/master/_posts/2020-02-28-sample-markdown.md) to learn  more about us.
+Welcome!I strongly encourage you to [take 5 minutes to learn about us](https://bilibili.com/) - it'll tell you the story of us.<br/>I also encourage you to look at the [film that created this post](https://github.com/OleLukCie/OleLukCie.github.io/posts/2020-02-28-sample-markdown.md) to learn  more about us.
 
 **Here is some bold text**
 
