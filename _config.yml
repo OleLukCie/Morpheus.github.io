@@ -22,9 +22,9 @@ author: OleLukCie
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Starra: "https://www.bilibili.com"
+    - John: "https://www.bilibili.com"
+  Author's home: "https://www.bilibili.com"
 
 ################
 # --- Logo --- #
@@ -52,22 +52,22 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  facebook: OleLukCie
+  github: OleLukCie
+  twitter: OleLukCie
+  patreon: OleLukCie
+  youtube: "@OleLukCie"
+  whatsapp: OleLukCie
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: OleLukCie
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: "OleLukCie"
+#  snapchat: OleLukCie
+#  instagram: OleLukCie
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +00000000000
+#  steam: OleLukCie
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
